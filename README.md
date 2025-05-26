@@ -1,6 +1,6 @@
 👋 Hi, I’m Kirimi Koome Kirimi a GIS Analyst | Remote Sensing Specialist | Geomatic Engineer | Cartographer | Geodesist
 
-👀 I’m interested in GIS analysis, remote sensing, web mapping, GEE Analysis, Geodesy on Matlab, climate change advocac
+👀 I’m interested in GIS analysis(using R, Python, javascript), remote sensing, web mapping, GEE Analysis, Geodesy on Matlab
 
 🌱 I’m currently learning advanced Python and R for spatial data processing, ArcGIS Pro automation, deformotion monitoring and geospatial web app development
 
